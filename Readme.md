@@ -10,3 +10,4 @@ Currently im using Microsoft SQL Server 2012
 - Create Indexes
 - Drop and Truncate Table
 - DB Backup with Differential
+- Check Table If Exist or Not Exist
