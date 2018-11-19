@@ -1,2 +1,3 @@
 # - MSSQL Codes
-I want to share some of code in T-SQL
+I want to share my codes in T-SQL.
+Currently im using Microsoft SQL Server 2012
