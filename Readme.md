@@ -3,7 +3,7 @@ I want to share my codes in T-SQL.<br/>
 Currently im using Microsoft SQL Server 2012
 
 ## List of SQL Statement
-- Create Database
+- [Create Database](MSSQL-Codes/Create Database.sql)
 - Create Table
 - FOREIGN KEY Constraint
 - Alter Table
