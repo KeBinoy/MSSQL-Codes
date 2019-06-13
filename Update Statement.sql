@@ -7,7 +7,7 @@ The UPDATE statement is used to modify the existing records in a table.
 
 ==== >> Sample Table "Student"
 
-student_id	| firstname		| middlename	| lastname		| gender	| bdate
+student_id		| firstname		| middlename			| lastname		| gender	| bdate
 5			| Kevin			| A				| Rivera		| Male		| 01/01/1995
 6			| Jan			| S				| Mante			| Male		| 3/21/1980
 7			| Anton 		| B				| Alonsabe		| Male		| 9/21/1920
