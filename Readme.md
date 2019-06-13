@@ -23,3 +23,9 @@ Currently im using Microsoft SQL Server 2012
 
 >> These SQL commands are used for storing, retrieving, modifying, and deleting data.
 
+1. [Insert Record with Checking DB and Table](https://github.com/KeBinoy/MSSQL-Codes/blob/master/Insert%20Record%20with%20Checking%20DB%20and%20Table.sql)
+2. [Select Statement](https://github.com/KeBinoy/MSSQL-Codes/blob/master/Select%20Statement.sql)
+3. [Where Clause](https://github.com/KeBinoy/MSSQL-Codes/blob/master/Where%20Clause.sql)
+4. [Date and Time Format](https://github.com/KeBinoy/MSSQL-Codes/blob/master/Date%20and%20Time%20Format.sql)
+5. [Update Statement](https://github.com/KeBinoy/MSSQL-Codes/blob/master/Update%20Statement.sql)
+
